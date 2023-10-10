@@ -1,7 +1,7 @@
 
 # Project Title
 
-Omnifoot - is a landing for healthy food and nutrition
+Omnifoot - is a landing page for healthy food and nutrition
 
 
 ## 🛠 Skills
